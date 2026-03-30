@@ -12,4 +12,4 @@ python_dotenv
 streamlit
 scikit-learn
 numpy
-langhain-ollama
+langchain-ollama
